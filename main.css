@@ -1,0 +1,29 @@
+* {
+    color: #fff;
+    font-size: 18px;
+}
+
+body {
+    background-color: #212121;
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+/* SS-PIZZA */
+.ss-pizza {
+    background-color: #212121;
+}
+.ss-pizza header {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ss-pizza img {
+    width: 200px;
+    height: 200px;
+}
+/* ***SS-PIZZA */
